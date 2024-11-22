@@ -38,7 +38,7 @@
     "ext-curl": "*",
     "ext-fileinfo": "*",
     "php": ">=7.4",
-    "nesbot/carbon": "4.x",
+    "nesbot/carbon": "3.x",
     "shahmal1yev/gcollection": "^1.0"
   },
   "scripts": {
